@@ -1,2 +1,3 @@
 # shubh_repo_00
-this is my first git repository.
+This is my first Git Repository.
+Author - Shubham kumar chaudhary.
